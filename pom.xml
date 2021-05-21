@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.spring.transaction</groupId>
-    <artifactId>leo-06-spring-programmatic-transaction</artifactId>
+    <artifactId>leo-006-spring-programmatic-transaction</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>leo-06-spring-programmatic-transaction</name>
+    <name>leo-006-spring-programmatic-transaction</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
